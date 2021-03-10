@@ -2,9 +2,6 @@ import Jumbotron from 'react-bootstrap/Jumbotron';
 import displayImages from './utils/displayImages';
 
 function App() {
-
-	// TODO Cal displayImages
-
   return (
     <div>
 			<Jumbotron>
